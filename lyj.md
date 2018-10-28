@@ -1,3 +1,4 @@
+# Hi~
 ```c
 #include <stdio.h>
 
