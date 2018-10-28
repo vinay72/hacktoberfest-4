@@ -1,6 +1,4 @@
-# Hi~
-## hello
-## yay
+
 ```c
 #include <stdio.h>
 
